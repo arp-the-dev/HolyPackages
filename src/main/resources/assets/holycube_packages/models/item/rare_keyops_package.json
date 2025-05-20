@@ -1,0 +1,6 @@
+{
+  "parent": "holycube_packages:item/package/custom_rl_12x10",
+  "textures": {
+    "2": "holycube_packages:item/package/rare_keyops"
+  }
+}
