@@ -1,12 +1,10 @@
 package com.arp.holycube_packages.content;
 
 import com.arp.holycube_packages.HolycubePackages;
-import com.simibubi.create.AllItems;
 import com.simibubi.create.content.logistics.box.PackageItem;
 import com.simibubi.create.content.logistics.box.PackageStyles;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.Items;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
 import java.util.ArrayList;
