@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "create:item/package_transforms",
+	"textures": {
+		"2": "holycube_packages:item/package/rare_base_rl",
+		"particle": "holycube_packages:item/package/rare_base_rl"
+	},
+	"elements": [
+		{
+			"name": "box",
+			"from": [2, 0, 2],
+			"to": [14, 10, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"north": {"uv": [0.66667, 3.66667, 4.66667, 7], "texture": "#2"},
+				"east": {"uv": [0.66667, 0.33333, 4.66667, 3.66667], "texture": "#2"},
+				"south": {"uv": [4.66667, 7, 0.66667, 10.33333], "texture": "#2"},
+				"west": {"uv": [0.66667, 10.33333, 4.66667, 13.66667], "texture": "#2"},
+				"up": {"uv": [6, 1.33333, 10, 5.33333], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [6, 5.33333, 10, 9.33333], "rotation": 270, "texture": "#2"}
+			}
+		}
+	]
+}
