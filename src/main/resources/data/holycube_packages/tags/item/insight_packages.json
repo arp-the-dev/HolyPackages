@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "holycube_packages:rare_gnome_package",
+    "holycube_packages:rare_holycube_package",
+    "holycube_packages:rare_lag_police_package",
+    "holycube_packages:rare_perdu_package",
+    "holycube_packages:rare_siphano_package",
+    "holycube_packages:rare_stonks_package",
+    "holycube_packages:rare_winx_package"
+  ]
+}

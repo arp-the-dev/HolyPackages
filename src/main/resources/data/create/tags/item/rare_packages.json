@@ -13,7 +13,11 @@
     "create:rare_vector_package",
     "create_dragons_plus:rare_blaze_pacakge",
     "create_dragons_plus:rare_marble_gate_pacakge",
+    "createqol:rare_delta_package",
+    "createqol:rare_furti_package",
+    "createqol:rare_iglee_package",
     "mechanicals:rare_oierbravo_package",
+    "holycube_packages:rare_holycube_package",
     "holycube_packages:rare_jimmy_package",
     "holycube_packages:rare_guill_package",
     "holycube_packages:rare_mldeg_package",
@@ -66,7 +70,17 @@
     "holycube_packages:rare_demazelle_package",
     "holycube_packages:rare_thatdanmgirll_package",
     "holycube_packages:rare_guep_package",
+    "holycube_packages:rare_zary_package",
+    "holycube_packages:rare_siphano_package",
     "holycube_packages:rare_the_golden_package",
-    "holycube_packages:rare_kirby_package"
+    "holycube_packages:rare_kirby_package",
+    "holycube_packages:rare_arp_package",
+    "holycube_packages:rare_gnome_package",
+    "holycube_packages:rare_holycube_package",
+    "holycube_packages:rare_lag_police_package",
+    "holycube_packages:rare_perdu_package",
+    "holycube_packages:rare_siphano_package",
+    "holycube_packages:rare_stonks_package",
+    "holycube_packages:rare_winx_package"
   ]
 }
